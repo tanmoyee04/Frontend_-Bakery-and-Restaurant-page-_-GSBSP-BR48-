@@ -201,7 +201,7 @@ body{
     padding: 20px;
 }
 .food-container{
-    max-width: 90vh;
+    max-width: 135vh;
     margin: 0 auto;
 }
 .food-card{
@@ -244,7 +244,7 @@ body{
     transition: opacity 4s;
 }
 .img-text h1{
-    font-size: 30px;
+    font-size: 25px;
     margin-bottom: 10px;
 }
 .food-card:hover img{
@@ -266,7 +266,7 @@ body{
     cursor: pointer;
     margin-top: 16px;
     transition: all 0.3s ease-in-out;
-    font-size: 18px;
+    font-size: 15px;
     outline: none;
 }
 .food-btn:hover{
@@ -276,7 +276,7 @@ body{
     outline: none;
 }
 .fas{
-    font-size: 30px;
+    font-size: 20px;
 }
 @media screen and (min-width:576px){
     .food-container{
